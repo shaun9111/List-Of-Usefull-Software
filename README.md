@@ -6,6 +6,7 @@
   *  [CPU-z](https://www.cpuid.com/softwares/cpu-z.html) - Freeware that gathers information on some of the main devices of your system.
   *  [FileZilla](https://filezilla-project.org/) - An open source FTP client that's refreshingly user-friendly.
   *  [Gimp](https://www.gimp.org/) - A powerful open source photo and image editing tool.
+  *  [GPU-z](https://www.techpowerup.com/gpuz/) - GPU-Z is a free utility designed to provide information about your video card.
   *  [LibreOffice](https://www.libreoffice.org/) - Open source free alternative to MS office.
   *  [PDF-XChange Viewer](http://www.tracker-software.com) - Dedicated tool for the creation of PDF files, editing and viewing.
   *  [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Power user's productivity utilties.
