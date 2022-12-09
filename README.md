@@ -3,6 +3,7 @@
   ### Windows  
 
   *  [7 Zip](http://www.7-zip.org/) - Decompress zip/rar files.
+  *  [Gimp](https://www.gimp.org/) - A powerful open source photo and image editing tool.
   *  [LibreOffice](https://www.libreoffice.org/) - Open source free alternative to MS office.
   *  [PDF-XChange Viewer](http://www.tracker-software.com) - Open PDFs.
   *  [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Power user's productivity utilties.
