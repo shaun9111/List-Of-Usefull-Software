@@ -13,4 +13,5 @@
   *  [T-Clock Redux](https://github.com/White-Tiger/T-Clock) - Custom date/time format in taskbar.
   *  [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Custom positioning of taskbar icons.
   *  [Ventoy](https://www.ventoy.net/en/index.html) -Create multiple bootable iso's in one usb.
+  *  [VLCMediaPlayer](https://www.videolan.org/vlc/) - Can Play virtually any media file.
   *  [WinZip](https://www.winzip.com/)   -Zipping and Unzipping files.  
