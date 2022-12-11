@@ -4,7 +4,7 @@
 
   *  [7 Zip](http://www.7-zip.org/) - Decompress zip/rar files.
   *  [CPU-z](https://www.cpuid.com/softwares/cpu-z.html) - Freeware that gathers information on some of the main devices of your system.
-  *  [Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) DDU is a utility that can uninstall AMD/NVIDIA all graphics card drivers and packages file traces.  
+  *  [Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - DDU is a utility that can uninstall AMD/NVIDIA graphics card drivers and packages file traces.  
   *  [FileZilla](https://filezilla-project.org/) - An open source FTP client that's refreshingly user-friendly.
   *  [Gimp](https://www.gimp.org/) - A powerful open source photo and image editing tool.
   *  [GPU-z](https://www.techpowerup.com/gpuz/) - GPU-Z is a free utility designed to provide information about your video card.
@@ -15,6 +15,7 @@
   *  [Qbittorrent](https://www.qbittorrent.org/) - Open source torrent program with no ad's.
   *  [Rufus](https://rufus.ie/en/)       -For creating Bootable USB sticks.  
   *  [StartAllBack](https://www.startallback.com/) - StartAllBack restores taskbar back to sanity. 30 day trial, 5$ after.
+  *  [Snappy Driver Installer](https://sdi-tool.org/) - Need drivers? Snappy Driver Installer is a free driver updater with a huge driver collection for offline use.  
   *  [Shortcut](https://shotcut.org/) - A slick open source program for advanced video editing
   *  [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - Advanced system utilities.
   *  [T-Clock Redux](https://github.com/White-Tiger/T-Clock) - Custom date/time format in taskbar.
