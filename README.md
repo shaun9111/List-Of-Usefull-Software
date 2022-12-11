@@ -4,6 +4,7 @@
 
   *  [7 Zip](http://www.7-zip.org/) - Decompress zip/rar files.
   *  [CPU-z](https://www.cpuid.com/softwares/cpu-z.html) - Freeware that gathers information on some of the main devices of your system.
+  *  [Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) DDU is a utility that can uninstall AMD/NVIDIA all graphics card drivers and packages file traces.  
   *  [FileZilla](https://filezilla-project.org/) - An open source FTP client that's refreshingly user-friendly.
   *  [Gimp](https://www.gimp.org/) - A powerful open source photo and image editing tool.
   *  [GPU-z](https://www.techpowerup.com/gpuz/) - GPU-Z is a free utility designed to provide information about your video card.
