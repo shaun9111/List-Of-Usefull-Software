@@ -15,6 +15,7 @@
   *  [Paint .Net](http://www.getpaint.net/) - Edit pictures/images.  
   *  [Qbittorrent](https://www.qbittorrent.org/) - Open source torrent program with no ad's.
   *  [Rufus](https://rufus.ie/en/)       -For creating Bootable USB sticks.  
+  *  [Ryujinx](https://github.com/Ryujinx/Ryujinx) - open-source Nintendo Switch emulator created by gdkchan.  
   *  [StartAllBack](https://www.startallback.com/) - StartAllBack restores taskbar back to sanity. 30 day trial, 5$ after.
   *  [Snappy Driver Installer](https://sdi-tool.org/) - Need drivers? Snappy Driver Installer is a free driver updater with a huge driver collection for offline use.  
   *  [Shortcut](https://shotcut.org/) - A slick open source program for advanced video editing
