@@ -23,5 +23,8 @@
   *  [T-Clock Redux](https://github.com/White-Tiger/T-Clock) - Custom date/time format in taskbar.
   *  [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Custom positioning of taskbar icons.
   *  [Ventoy](https://www.ventoy.net/en/index.html) -Create multiple bootable iso's in one usb.
+  *  [Visual Studio](https://visualstudio.microsoft.com/) - The most comprehensive IDE for .NET and C++ developers on Windows.
+  *  [Visual Studio Code](https://code.visualstudio.com/) - Visual Studio Code is a editor optimized for building and debugging web and cloud applications.
   *  [VLCMediaPlayer](https://www.videolan.org/vlc/) - Can Play virtually any media file.
+  *  [WebStorm](https://www.jetbrains.com/webstorm/) - WebStorm is an integrated development environment for JavaScript, 30 day trial.
   *  [WinZip](https://www.winzip.com/)   -Zipping and Unzipping files.  
