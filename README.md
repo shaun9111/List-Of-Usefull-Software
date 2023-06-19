@@ -14,7 +14,8 @@
   *  [Ninite](https://ninite.com/) - Install and Update All Your Programs at Once No toolbars. No clicking next. Just pick your apps and go.   
   *  [PDF-XChange Viewer](http://www.tracker-software.com) - Dedicated tool for the creation of PDF files, editing and viewing.
   *  [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Power user's productivity utilties.
-  *  [Paint .Net](http://www.getpaint.net/) - Edit pictures/images.  
+  *  [Paint .Net](http://www.getpaint.net/) - Edit pictures/images.
+  *  [Putty} (https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) A Free SSH program 
   *  [Qbittorrent](https://www.qbittorrent.org/) - Open source torrent program with no ad's.
   *  [Rufus](https://rufus.ie/en/)       -For creating Bootable USB sticks.  
   *  [Ryujinx](https://github.com/Ryujinx/Ryujinx) - open-source Nintendo Switch emulator created by gdkchan.  
